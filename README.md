@@ -3,18 +3,6 @@ SQL de Tabelas com Registros de Todos os __Países e Nações__ (c/ Código do P
 
 > Obs: A tabela de Países está sofrendo atualizações na coluna do Código BACEN, priorizando o código do País através da tabela de países do Portal do Comércio Exterior, sendo assim em alguns casos o código BACEN do País está recebendo o Código do Portal de Comércio Exterior, levando em consideração que a Receita Federal está exigindo essa tabela em relação ao BACEN em seus documentos fiscais. Vide Nota Técnica 2018.003 no portal da nota fiscal eletrônica.
 
-*Arquivos separados por tipo de ___SGBD___ em Pastas.
-
-*Arquivos separados por tabela.
-
-*Em breve irei incluir estados e cidades estrangeiras.
-
-*Em breve irei incluir informações sobre latitude e longitude de cidades brasileiras.
-
-**Gostou do projeto? Apoie-o doando**
-- ![Pagseguro](https://stc.pagseguro.uol.com.br/pagseguro/i/favicon.ico) Pagseguro: ![Pagseguro](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/160x20-doar-laranja.gif) (https://pag.ae/bmhD7Bp)
-- ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: ![Paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif) (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8S87DT5V89ZML)
-- ![btc](https://camo.githubusercontent.com/4bc31b03fc4026aa2f14e09c25c09b81e06d5e71/687474703a2f2f7777772e6d6f6e747265616c626974636f696e2e636f6d2f696d672f66617669636f6e2e69636f) Bitcoin: Em breve!
 
 ## Como Instalar (Para quem nunca utilizou o projeto...)
 
@@ -98,7 +86,7 @@ O código de País do BACEN dos seguintes países tem o DV - dígito verificador
 
 *Caso deseje contribuir com sugestões, correções ou adaptando o código sql para outro tipo de SGBD será sempre bem vindo, sempre faça um Pull Request das suas contribuições.
 
-## Fontes 
+## Fontes
 
 - [x] [Tabela de Países do Portal do Comércio Exterior](http://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=Iy/5Qol1YbE=)
 - [x] [Códigos BACEN](http://www.bcb.gov.br/rex/Censo2000/port/manual/pais.asp?idpai=censo2000inf)
