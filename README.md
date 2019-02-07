@@ -88,3 +88,9 @@ O código de País do BACEN dos seguintes países tem o DV - dígito verificador
 - [x] [Código de Unidade da Federação](http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm)
 - [x] [Código do Município](http://www.ibge.gov.br/home/geociencias/areaterritorial/area.shtm)
 - [x] [Cidades IBGE](http://www.cidades.ibge.gov.br/v3/cidades/home-cidades)
+
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png
